@@ -6,6 +6,7 @@ complete reference python langauge syntax and examples
 
 - if-else condition
 - for loop
+- file reading
 
 
 WhatsApp Group Link https://chat.whatsapp.com/GzhahG2MuRGF9MLzceBGlq
