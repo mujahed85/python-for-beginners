@@ -1,0 +1,38 @@
+
+here we will learn some if-else condition,
+Qes) How to write if-else in different ways using python examples
+Ans) following are the ways to write simple conditional statement in different ways.
+
+#************************************************
+1) using simple if-else 
+#************************************************
+# If the number is positive, we print an appropriate message
+num = 3
+if num > 0:
+    print(num, "is a positive number.")
+print("This is always printed.")
+
+num = -1
+if num > 0:
+    print(num, "is a positive number.")
+print("This is also always printed.")
+
+#************************************************
+2) using simple if else in single line and short hand assignment
+#************************************************
+page='tv'
+bc = 'on' if page=='tv' else 'off'
+print bc
+
+#************************************************
+3) using parenthesis if else in single line and short hand assignment
+#************************************************
+bc = ("off","on")[page=="tv"]
+result = (on_false, on_true)[condition]
+
+#************************************************
+4) using conditional operator 
+#************************************************ 
+want_bc = {True: "on", False: "off"}
+bc = want_bc[page == "tv"]
+print bc
