@@ -1,0 +1,5 @@
+The elif is short for else if. 
+It allows us to check for multiple expressions.
+If the condition for if is False, 
+it checks the condition of the next elif block and so on.
+If all the conditions are False, body of else is executed.
