@@ -8,14 +8,11 @@ complete reference python langauge syntax and examples
 - for loop
 
 
-WhatsApp Group Link:
-[https://chat.whatsapp.com/GzhahG2MuRGF9MLzceBGlq]
+WhatsApp Group Link https://chat.whatsapp.com/GzhahG2MuRGF9MLzceBGlq
 
-Github:
-[https://github.com/mujahed85/python-for-beginners]
+Github (https://github.com/mujahed85/python-for-beginners)
 
-Website:
-[ask2mujahed.wordpress.com]
+Website(https://ask2mujahed.wordpress.com)
 
 Email:
-[mujahed.mca@gmail.com]
+mujahed.mca@gmail.com
